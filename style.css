@@ -1,0 +1,260 @@
+body{
+    background-color:beige
+    
+}
+
+ul {
+float: left;
+width: 100%;
+padding: 0;
+margin: 60;
+list-style: none;
+}
+
+li a {
+display: block;
+float: left;
+text-align: center;
+font-size: 1.2em;
+width: 130px;
+text-decoration: none;
+color: aqua;
+background-color: chocolate;
+padding: 10px 15px;
+margin: 0px 1px 1px 0px;
+border: 1px solid navy;
+border-radius: 3px;
+border-radius: 5px;
+border-radius: 5px;
+box-shadow: 0px 2px 3px gray;
+box-shadow: 0px 2px 3px gray;
+}
+
+li a:hover {
+color: black;
+background: aqua;
+border: 1px solid blue;
+}
+
+li a:visited {
+}
+
+li.selected a{
+   background-color: bisque; 
+}
+
+h5{
+    color:greenyellow;
+    font-family: arial;
+    font-size: 64px;
+    font-weight: bold;
+    
+    text-shadow: 4px 4px black;
+    position: absolute;
+    top: 0%;
+    right:35%;
+}
+
+
+.intro{
+    position: absolute;
+    top: 50%;
+}
+ 
+.hobby{
+    font-size: 150%;
+    color: darkorange;
+    position: absolute;
+    top: 70%;
+    font-family: monospace;
+}
+
+
+
+p {
+    font-size: 150%;
+    color: darkorange;
+    font-family: monospace;
+}
+
+h1 {
+    position: absolute;
+    top: 45%;
+     color: darkorange;
+    font-family: monospace;
+    font-size: 250%;
+}
+
+.place {
+    position: absolute;
+    text-align: center;
+    top:20%;
+    right: 33%;
+     color: black;
+}
+.rankingi {
+ position: absolute;
+     top: 10%;
+    right: 5%;
+}
+
+.ranklol{
+    position: absolute;
+     top: 40%;
+    right: 3%;
+}
+.csgo {
+     text-align: center;
+     position: absolute;
+     top: 5%;
+    right: 45%;
+font-size: 1.2em;
+width: 130px;
+}
+
+.lol {
+    
+     position: absolute;
+     top: 65%;
+    right: 30%;
+font-size: 1.2em;
+width: 130px;
+}
+ 
+h2 {
+   font-size: 150%;
+    color: darkolivegreen;
+    font-family: monospace;
+    position: absolute;
+     top: 30%;
+    left:10 %;
+}
+
+p1 {
+    font-size: 120%;
+    color: brown;
+    font-family:sans-serif;
+    position: absolute;
+     top: 36%;
+    left:10 %;
+}
+
+ul1 {
+display:block;
+width: 100%;
+padding: 0;
+margin: 0;
+list-style: none;
+}
+
+li1 a {
+display: block;
+float: left;
+text-align: center;
+font-size: 1.2em;
+width: 130px;
+text-decoration: none;
+color: aqua;
+background-color: blueviolet;
+padding: 10px 15px;
+margin: 0px 1px 1px 0px;
+border: 1px solid navy;
+border-radius: 3px;
+border-radius: 5px;
+border-radius: 5px;
+box-shadow: 0px 2px 3px gray;
+box-shadow: 0px 2px 3px gray;
+}
+
+li1 a:hover {
+color: aliceblue;
+border: 1px solid blue;
+}
+
+li1 a:visited {
+}
+
+li1.selected a{
+   background-color: black; 
+}
+.social-media{
+     text-align: left;
+     float:left;
+     position: absolute;
+     top: 90%;
+}
+h3 {
+   font-size: 150%;
+    color: darkolivegreen;
+    font-family: monospace;
+    position: absolute;
+     top: 30%;
+    left:33%;
+}
+.blizzard {
+     font-size: 125%;
+    color: black;
+    font-family:monospace;
+    position: absolute;
+     top: 40%;
+    left:33%;
+}
+.wow {
+     position: absolute;
+     top: 35%;
+    left:33%;
+    font-size: 140%;
+}
+.newgames {
+    font-size: 120%;
+    color: black;
+    font-family:monospace;
+    position: absolute;
+     top: 35%;
+    left:2%;
+}
+
+.wow1 {
+     position: absolute;
+     top: 53%;
+    left:33%;
+    font-size: 140%;
+}
+.cod {
+     font-size: 125%;
+    color: black;
+    font-family:monospace;
+    position: absolute;
+     top: 58%;
+    left:33%;
+}
+
+.wow2 {
+    position: absolute;
+     top: 70%;
+    left:33%;
+    font-size: 140%;
+}
+.assasin {
+    font-size: 125%;
+    color: black;
+    font-family:monospace;
+    position: absolute;
+     top: 75%;
+    left:33%;
+}
+
+.games1 {
+    font-size: 150%;
+    color: darkolivegreen;
+    font-family: monospace;
+    position: absolute;
+     top: 30%;
+    left:75%;
+}
+
+.liga {
+    position: absolute;
+     top: 40%;
+    left:80%;
+}
